@@ -1,4 +1,4 @@
-servises:
+services:
   level5:
     build: ./
     ports:
